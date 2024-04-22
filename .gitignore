@@ -1,0 +1,2 @@
+# used to hold the previous latched directory value
+.latched_dir
